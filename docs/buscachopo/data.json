@@ -38,19 +38,17 @@
         },
         {
           "id": "uniqueID-2",
-          "lat": "50.9",
-          "lon": "4.8",
+          "lat": "43.356121",
+          "lon": "-5.8615832",
           "type": "Food",
-          "name": "My Statue",
+          "name": "Sidrería el Manzanu",
           "images": [
-            "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-            "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+            "https://res.cloudinary.com/tf-lab/image/upload/f_auto,q_auto,g_auto:subject,w_488,h_488,c_fill/customer/6e68846e-76fa-4633-b506-152173abfa8c/6cedcf4e-9698-4220-a649-99ea157e9cd7.jpg"
           ],
-          "description": "One-paragraph description",
-          "more": "More description, if you want",
+          "description": "Near to calatrava, a very classic and typical cachopo. Basic but perfect.",
+          "more": "     s",
           "urls": [
-            "https://nl.wikipedia.org/MyPoi",
-            "https://example.org/mypoi"
+            "https://www.google.com/maps/place/Sidrer%C3%ADa+El+Manzanu/@43.356121,-5.8615832,17z/data=!4m6!3m5!1s0xd368d1ec45866c1:0xd731f6c1342cc3cb!8m2!3d43.3562224!4d-5.8609287!16s%2Fg%2F11c6vzl4z3?hl=es&entry=ttu"
           ]
         }
       ]
